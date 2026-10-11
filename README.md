@@ -1,8 +1,8 @@
 # 0xedgelessblade (重劍無鋒)
 
-I'm **edgelessblade (重劍無鋒)**, a **Taiwanese full-time investor**, writer, and independent developer. I focus on US equities, Tesla (TSLA), market valuation, and trading psychology.
+I'm **edgelessblade (重劍無鋒)**, a **full-time independent investor**, writer, and independent developer. I focus on US equities, Tesla (TSLA), market valuation, and trading psychology.
 
-我是一名**台灣籍全職投資人**、寫作者與獨立開發者，關注美股、Tesla（TSLA）、市場估值與投資心理。
+我是一名**全職獨立投資人**、寫作者與獨立開發者，關注美股、Tesla（TSLA）、市場估值與投資心理。
 
 [個人網站 / Website](https://edgelessblade.com/) · [Threads](https://www.threads.com/@edgeless.blade) · [英文文章 / English Writing](https://github.com/0xedgelessblade/edgelessblade#articles)
 
