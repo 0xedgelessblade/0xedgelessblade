@@ -8,7 +8,12 @@ I'm **edgelessblade (重劍無鋒)**, a **Taiwanese full-time investor**, writer
 
 ## Presence & Community / 社群資料
 
+[![Threads: over 13,000 followers as of October 2026](https://img.shields.io/badge/Threads-13K%2B_followers-181717?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@edgeless.blade)
+[![Paid community: over 800 members as of October 2026](https://img.shields.io/badge/Paid_Community-800%2B_members-23395B?style=flat-square&logo=telegram&logoColor=white)](https://edgelessblade.com/)
+
 As of October 2026 / 截至 2026 年 10 月
+
+<sub>Figures updated manually / 數據為手動更新。</sub>
 
 | Platform / 社群 | Size / 規模 |
 | --- | --- |
