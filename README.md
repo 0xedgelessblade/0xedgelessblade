@@ -1,27 +1,39 @@
-# edgelessblade｜重劍無鋒
+# 0xedgelessblade (重劍無鋒)
 
-我是 **edgelessblade（重劍無鋒）**，台灣籍專業投資人與寫作者，關注美股、Tesla（TSLA）、市場估值與投資心理。我在 Threads 以繁體中文分享觀察，並持續把文章改寫成自然英文，整理在 GitHub。這裡也發布我與 AI 協作開發的實用工具。
+I'm **edgelessblade (重劍無鋒)**, a **Taiwanese full-time investor**, writer, and independent developer. I focus on US equities, Tesla (TSLA), market valuation, and trading psychology.
 
-**I'm edgelessblade (重劍無鋒), a Taiwanese professional investor and writer.** I write about US equities, Tesla (TSLA), market valuation, and trading psychology. My GitHub username is **0xedgelessblade**. I am building an English archive of my Traditional Chinese Threads posts, rewritten in my own voice. I also share practical tools built with AI.
+我是一名**台灣籍全職投資人**、寫作者與獨立開發者，關注美股、Tesla（TSLA）、市場估值與投資心理。
 
-截至 2026 年 10 月，我在 Threads 擁有超過 **13,000 名追蹤者**，並運營一個超過 **800 名成員的付費社群**。
+[個人網站 / Website](https://edgelessblade.com/) · [Threads](https://www.threads.com/@edgeless.blade) · [英文文章 / English Writing](https://github.com/0xedgelessblade/edgelessblade#articles)
 
-As of October 2026, I have over **13,000 followers on Threads** and run a **paid community with over 800 members**.
+## Presence & Community / 社群資料
 
-[個人網站 / Website](https://edgelessblade.com/) · [Threads](https://www.threads.com/@edgeless.blade) · [英文文章 / English writing](https://github.com/0xedgelessblade/edgelessblade#articles)
+As of October 2026 / 截至 2026 年 10 月
 
-## 投資與英文文章 / Investment writing
+| Platform / 社群 | Size / 規模 |
+| --- | --- |
+| [Threads](https://www.threads.com/@edgeless.blade) | Over 13,000 followers / 超過 13,000 名追蹤者 |
+| Paid community / 我運營的付費社群 | Over 800 members / 超過 800 名成員 |
 
-從 **[英文文章目錄 / English article index](https://github.com/0xedgelessblade/edgelessblade#articles)** 開始。Threads 以繁體中文分享；英文文章庫持續收錄以自然英文重新表達的文章。
+## Project Overview / 專案簡介
 
-**Read my [English article archive](https://github.com/0xedgelessblade/edgelessblade#articles)** for market commentary, Tesla observations, and investment reflections. Each entry has a date and a topic. These are my personal views and records; I do not manage money for others.
+### 投資與英文文章 / Investment Writing
 
-- [美股與市場觀察 / Markets](https://github.com/0xedgelessblade/edgelessblade/tree/main/articles/markets)：指數估值、美國公債與投資思考。
+My [English article archive](https://github.com/0xedgelessblade/edgelessblade#articles) brings together my Traditional Chinese Threads posts, rewritten in my own natural voice. It covers market commentary, Tesla observations, and investment reflections, with dated entries organized by topic.
+
+Threads 以繁體中文分享觀察；[英文文章目錄](https://github.com/0xedgelessblade/edgelessblade#articles)持續收錄以自然英文重新表達的文章，保留當時的思考與脈絡。
+
+- [Markets / 美股與市場觀察](https://github.com/0xedgelessblade/edgelessblade/tree/main/articles/markets)：指數估值、美國公債與投資思考。
 - [Tesla / TSLA](https://github.com/0xedgelessblade/edgelessblade/tree/main/articles/tesla)：Tesla 觀察、交易紀錄與 TSLA / SPCX 比較。
-- [AI 使用經驗 / AI in practice](https://github.com/0xedgelessblade/edgelessblade/tree/main/articles/ai)：把 AI 用在生活、工作與創作。
-- [生活筆記 / Life](https://github.com/0xedgelessblade/edgelessblade/tree/main/articles/life)：個人選擇、旅行與生活觀察。
+- [Life / 生活筆記](https://github.com/0xedgelessblade/edgelessblade/tree/main/articles/life)：個人選擇、旅行與生活觀察。
 
-## 開源作品 / Selected projects
+### AI in Practice & Tools / AI 使用經驗與工具
+
+I also share [notes on using AI](https://github.com/0xedgelessblade/edgelessblade/tree/main/articles/ai) and practical tools built in collaboration with AI, from voice input and Markdown reading to web crawling and knowledge graphs.
+
+這裡也分享 [AI 使用經驗](https://github.com/0xedgelessblade/edgelessblade/tree/main/articles/ai)，並發布與 AI 協作開發的實用工具，用於語音輸入、文件閱讀、網站資料整理與知識圖譜。
+
+#### 開源作品 / Selected projects
 
 | 專案 | 用途 | 入口 |
 | --- | --- | --- |
@@ -31,7 +43,7 @@ As of October 2026, I have over **13,000 followers on Threads** and run a **paid
 | **[Contextual Neural Map](https://github.com/0xedgelessblade/contextual-neural-map)** | 將資料夾中的文字與文件關聯整理成互動式知識圖譜。 | [展示頁](https://0xedgelessblade.github.io/contextual-neural-map/) |
 | **[TSLA / SPCX](https://github.com/0xedgelessblade/tsla-spcx)** | 比較 TSLA 與 SPCX 的每日報酬率差，使用公開價格資料。 | [查看圖表](https://0xedgelessblade.github.io/tsla-spcx/) |
 
-## AI 工作流程 / Guides
+#### AI 工作流程 / Guides
 
 - [Cowork 新手設定指南](https://github.com/0xedgelessblade/cowork-beginner-guide)：從資料夾、記憶檔到工作守則，建立自己的 AI 工作環境。
 - [Agentic Engineering 實戰指南](https://github.com/0xedgelessblade/agentic-engineering-guide)：整理 AI 開發工具的上下文與設定；依原始資料延伸的實作指南。
@@ -44,5 +56,7 @@ As of October 2026, I have over **13,000 followers on Threads** and run a **paid
 - 個人網站：[edgelessblade.com](https://edgelessblade.com/)
 - GitHub：[@0xedgelessblade](https://github.com/0xedgelessblade)
 - Threads：[@edgeless.blade](https://www.threads.com/@edgeless.blade)
+
+My investment writing records my personal views. I do not manage money or trade on behalf of others.
 
 投資文章是個人觀點與紀錄，不提供代操或帳戶管理。
