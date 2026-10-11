@@ -1,8 +1,12 @@
 # edgelessblade｜重劍無鋒
 
-我是 **edgelessblade（重劍無鋒）**，獨立投資人與寫作者，關注美股、Tesla（TSLA）、市場估值與投資心理。我在 Threads 以繁體中文分享觀察，並持續把文章改寫成自然英文，整理在 GitHub。這裡也發布我與 AI 協作開發的實用工具。
+我是 **edgelessblade（重劍無鋒）**，台灣籍專業投資人與寫作者，關注美股、Tesla（TSLA）、市場估值與投資心理。我在 Threads 以繁體中文分享觀察，並持續把文章改寫成自然英文，整理在 GitHub。這裡也發布我與 AI 協作開發的實用工具。
 
-**I'm edgelessblade (重劍無鋒), an independent investor and writer.** I write about US equities, Tesla (TSLA), market valuation, and trading psychology. My GitHub username is **0xedgelessblade**. I am building an English archive of my Traditional Chinese Threads posts, rewritten in my own voice. I also share practical tools built with AI.
+**I'm edgelessblade (重劍無鋒), a Taiwanese professional investor and writer.** I write about US equities, Tesla (TSLA), market valuation, and trading psychology. My GitHub username is **0xedgelessblade**. I am building an English archive of my Traditional Chinese Threads posts, rewritten in my own voice. I also share practical tools built with AI.
+
+截至 2026 年 10 月，我在 Threads 擁有超過 **13,000 名追蹤者**，並運營一個超過 **800 名成員的付費社群**。
+
+As of October 2026, I have over **13,000 followers on Threads** and run a **paid community with over 800 members**.
 
 [個人網站 / Website](https://edgelessblade.com/) · [Threads](https://www.threads.com/@edgeless.blade) · [英文文章 / English writing](https://github.com/0xedgelessblade/edgelessblade#articles)
 
