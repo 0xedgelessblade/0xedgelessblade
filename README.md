@@ -35,6 +35,10 @@ I also share [notes on using AI](https://github.com/0xedgelessblade/edgelessblad
 
 #### 開源作品 / Selected projects
 
+**網站作品： [Alaska 里程神器](https://github.com/0xedgelessblade/alaska-miles)** — 台灣出發與回程里程機位。 [免登入地圖預覽](https://miles.edgelessblade.com/) · [公開近期機位](https://miles.edgelessblade.com/availability) · [更新紀錄](https://github.com/0xedgelessblade/alaska-miles/blob/main/CHANGELOG.md)
+
+A map-first Alaska award-seat tool with free public previews and readable HTML / JSON summaries.
+
 | 專案 | 用途 | 入口 |
 | --- | --- | --- |
 | **[edgelesstype](https://github.com/0xedgelessblade/edgelesstype)** | Apple silicon Mac 語音輸入工具：本機 Whisper 辨識，可選擇使用 LLM 校正與翻譯。 | [安裝指南](https://github.com/0xedgelessblade/edgelesstype/blob/main/docs/INSTALL_WITH_AI.md) |
